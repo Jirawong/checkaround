@@ -1,4 +1,4 @@
-import { Component } from 'react';
+import React, { Component } from 'react';
 import {LoginButton} from 'react-native-fbsdk';
 
 export default class Login extends Component{
